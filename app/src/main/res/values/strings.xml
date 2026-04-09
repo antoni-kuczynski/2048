@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">game_2048</string>
+    <string name="new_game">New game</string>
+    <string name="settings">Settings</string>
+    <string name="apply">Apply</string>
+    <string name="game_name">2048</string>
+
+    <string name="score_CAPS">SCORE</string>
+    <string name="best_score_CAPS">BEST</string>
+
+
+    <string name="board_size">Board size</string>
+    <string name="size_change_note">Note: Changing this will reset your current game</string>
+
+    <string name="theme_str">Theme</string>
+    <string name="theme_name_light">Light</string>
+    <string name="theme_name_dark">Dark</string>
+    <string name="theme_name_system">System</string>
+    <string name="theme_name_invalid">Invalid theme</string>
+
+
+    <string name="you_won">You won</string>
+    <string name="got_2048">You managed to create a 2048 tile!</string>
+    <string name="keep_playing">Keep playing</string>
+
+    <string name="no_more_moves">No more moves!</string>
+    <string name="your_score">Your score was: </string>
+    <string name="try_again">Try again</string>
+
+</resources>

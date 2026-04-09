@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">game_2048</string>
+    <string name="new_game">Nowa gra</string>
+    <string name="settings">Ustawienia</string>
+    <string name="apply">Apply</string>
+    <string name="game_name">2048</string>
+
+    <string name="score_CAPS">WYNIK</string>
+    <string name="best_score_CAPS">REKORD</string>
+
+
+    <string name="board_size">Wielkość planszy</string>
+    <string name="size_change_note">Zmiana tego spowoduje rozpoczęcie nowej gry</string>
+
+    <string name="theme_str">Motyw</string>
+    <string name="theme_name_light">Jasny</string>
+    <string name="theme_name_dark">Ciemny</string>
+    <string name="theme_name_system">Systemowy</string>
+    <string name="theme_name_invalid">Niepoprawny motyw</string>
+
+
+    <string name="you_won">Wygrana!</string>
+    <string name="got_2048">Udało Ci się utworzyć kafelek 2048!</string>
+    <string name="keep_playing">Graj dalej</string>
+
+    <string name="no_more_moves">Nie masz ruchów!</string>
+    <string name="your_score">Twój wynik to: </string>
+    <string name="try_again">Spróbuj jeszcze raz</string>
+
+</resources>
